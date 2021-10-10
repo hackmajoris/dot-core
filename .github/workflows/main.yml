@@ -35,7 +35,7 @@ jobs:
           # Remote port
           REMOTE_PORT: ${{ secrets.PORT }}
           # Source directory
-          SOURCE: src
+          SOURCE: public
           # Target directory
           TARGET: /home/apps/dot-core/dot-core-page
           # Arguments to pass to rsync
