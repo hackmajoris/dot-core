@@ -37,7 +37,7 @@ jobs:
           # Source directory
           SOURCE: src
           # Target directory
-          TARGET: /home/apps/dot-core/doto-core-page
+          TARGET: /home/apps/dot-core/dot-core-page
           # Arguments to pass to rsync
           ARGS: ''
 
